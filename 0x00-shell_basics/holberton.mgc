@@ -1,2 +1,2 @@
 #!/bin/bash
-offset 0 type string HOLBERTON
+file  offset 0 type string HOLBERTON
