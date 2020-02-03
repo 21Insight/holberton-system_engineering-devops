@@ -1,0 +1,8 @@
+#!/bin/bash
+W=$WATER | tr water 01234
+S=$STIR | tr stir. 01234
+A=$((5#$W))
+B=$((5#$S))
+C=$((A+B))
+D=printf "%o" $C
+echo $D | tr 01234567 belhnort
