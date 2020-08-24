@@ -30,3 +30,4 @@ All of the following folders are projects done during the studies:
 | [`0x0F-load_balancer`](https://github.com/21Insight/holberton-system_engineering-devops/tree/master/0x0F-load_balancer) | It aims to learn about how to debug a webstack |
 | [`0x10-https_ssl`](https://github.com/21Insight/holberton-system_engineering-devops/tree/master/0x10-https_ssl) | It aims to learn about how to debug a webstack |
 | [`0x12-web_stack_debugging_2`](https://github.com/21Insight/holberton-system_engineering-devops/tree/master/0x12-web_stack_debugging_2) | It aims to learn about how to debug a webstack |
+| [`0x13-firewall`](https://github.com/21Insight/holberton-system_engineering-devops/tree/master/0x13-firewall) | It aims to learn about how to debug a webstack |
